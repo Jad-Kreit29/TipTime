@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Personal Colour Choices -->
+
+    <color name="amber">#FFC107</color>
+    <color name="amber_light">#FFF350</color>
+    <color name="amber_dark">#C79100</color>
+
+    <color name="cyan">#26C6DA</color>
+    <color name="cyan_light">#6FF9FF</color>
+    <color name="cyan_dark">#0095A8</color>
+
+
+</resources>
